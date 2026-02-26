@@ -1,0 +1,14 @@
+{
+   name:"servicotype"
+   precoHora:""
+   categoria:""
+   miniDescontado:""
+   percentagemDesconto:"script:{
+    "start" 
+
+   
+
+
+
+
+}
